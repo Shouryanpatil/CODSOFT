@@ -1,5 +1,5 @@
-#Task 1 Given by CodSoft
-# python program to creat a todo list
+# Task 1 
+# To-Do List application
 
 import tkinter as tk
 from tkinter import simpledialog, messagebox
