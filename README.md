@@ -10,7 +10,7 @@ To-Do List: A simple GUI-based To-Do List application to help you organize your 
 
 Calculator: Basic calculator functionality supporting addition, subtraction, multiplication, and division.
 
-Password Generator: Generates strong and secure passwords with customizable options.
+Password Generator: Generates strong and secure passwords with desired length.
 
 Rock-Paper-Scissors Game: A classic Rock-Paper-Scissors game to play against the computer.
 
