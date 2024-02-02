@@ -1,7 +1,7 @@
 # CODSOFT
 PYTHON PROGRAMING TASK
 
-Introduction
+
 Welcome to my repository for the CODSOFT virtual internship! In this internship, I completed four Python programming tasks - a To-Do List, Calculator, Password Generator, and Rock-Paper-Scissors Game. 
 
 Tasks Overview
